@@ -5,6 +5,7 @@ class Message {
   final String? url;
   final FromWho fromWho; 
 
+  //consstructor
   Message({
     required this.text,
     this.url,
